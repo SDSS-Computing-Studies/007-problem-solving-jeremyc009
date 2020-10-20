@@ -4,4 +4,8 @@ This is the list of actions my code needs to do.
 2: Choose the arcade mode.
 3: Choose normal mode.
 4: Click the black square with the arrow cut out of it. 
-5: Click the black squares
+5: Click the black squares as they come down
+6: If the game is lost, click the again button
+"""
+import pyautogui
+pyautogui.mouseInfo()
