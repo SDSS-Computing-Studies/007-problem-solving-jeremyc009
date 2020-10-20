@@ -1,3 +1,3 @@
 import pyautogui as p 
 
-p.mouseinfo()
+p.mouseInfo()
